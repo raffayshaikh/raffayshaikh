@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raffayshaikh&count_private=false&theme=dracula&token=YOUR_GITHUB_TOKEN" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raffayshaikh&count_private=true&theme=dracula&token=YOUR_GITHUB_TOKEN" height="150" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffayshaikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
